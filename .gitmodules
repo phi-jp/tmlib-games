@@ -1,0 +1,30 @@
+[submodule "arrow-flick"]
+	path = arrow-flick
+	url = git@github.com:phi-jp/arrow-flick.git
+[submodule "hjkl"]
+	path = hjkl
+	url = git@github.com:phi-jp/hjkl.git
+[submodule "dodge-ball"]
+	path = dodge-ball
+	url = git@github.com:phi-jp/dodge-ball.git
+[submodule "flatm-touch"]
+	path = flatm-touch
+	url = git@github.com:phi-jp/flatm-touch.git
+[submodule "himajin-no-asobi"]
+	path = himajin-no-asobi
+	url = git@github.com:phi-jp/himajin-no-asobi.git
+[submodule "1111"]
+	path = 1111
+	url = git@github.com:phi-jp/1111.git
+[submodule "tapple"]
+	path = tapple
+	url = git@github.com:phi-jp/tapple.git
+[submodule "touch-the-kanji"]
+	path = touch-the-kanji
+	url = git@github.com:phi-jp/touch-the-kanji.git
+[submodule "match3-tmlib.js"]
+	path = match3-tmlib.js
+	url = git@github.com:phi-jp/match3-tmlib.js.git
+[submodule "perfect-invaders"]
+	path = perfect-invaders
+	url = git@github.com:phi-jp/perfect-invaders.git
