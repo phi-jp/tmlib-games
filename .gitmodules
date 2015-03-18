@@ -31,3 +31,6 @@
 [submodule "rotate"]
 	path = rotate
 	url = git@github.com:phi-jp/rotate.git
+[submodule "flick-arrow"]
+	path = flick-arrow
+	url = https://phi-jp@github.com/phi-jp/flick-arrow.git
