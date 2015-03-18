@@ -1,6 +1,3 @@
-[submodule "arrow-flick"]
-	path = arrow-flick
-	url = git@github.com:phi-jp/arrow-flick.git
 [submodule "hjkl"]
 	path = hjkl
 	url = git@github.com:phi-jp/hjkl.git
